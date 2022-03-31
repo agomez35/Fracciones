@@ -4,6 +4,7 @@ import java.util.Scanner;
 /**
 NOMBRE DEL PROYECTO: FRACCIONES
 AUTOR: ANDY GOMEZ
+ORGANIZACION: UTP DAVID
  */
 
 // Se define la clase Fracciones
