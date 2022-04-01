@@ -39,7 +39,7 @@ public class Fracciones {
         // Mostrando los resultados
         System.out.print("\nEl resultado de la resta es: ");
         resuls.mostrar();
-        System.out.print("El resultado de la suma es: ");
+        System.out.print("\nEl resultado de la suma es: ");
         resultr.mostrar();
 	}
 
